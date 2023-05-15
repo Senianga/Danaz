@@ -129,7 +129,7 @@ h3 {
     margin-right: 0;
 }
 
-.btn-blue {
+.btn-primery {
     color: var(--white);
     background-color: var(--blue);
     border-radius: 0;
@@ -138,7 +138,7 @@ h3 {
     line-height: 21px;
 }
 
-.bg-blue {
+.bg-primery {
     display: inline-block;
     color: var(--white);
     padding: 0.375rem 0.75rem;
@@ -192,7 +192,7 @@ h3 {
 }
 
 .bg-white {
-    border: 1px solid var(--gray);
+    border: 1px solid var(--gray)
 }
 
 .product-decription {
@@ -455,7 +455,7 @@ h3, h4 {
 
 
 //---------footer--------
-.container-blue {
+.container-primery {
     background-color: var(--blue);
 }
 
