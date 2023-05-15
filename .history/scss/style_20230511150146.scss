@@ -1,0 +1,100 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+:root {
+    --primery: #2C3878 ;
+    --white: #ffffff;
+    --gray: #333333;
+    --grayscale: #d9d9d9;
+    --black: #000000;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing:inherit;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: var(--black);
+    overflow-x: hidden;
+    box-sizing:border-box;
+}
+
+h1 {
+    font-weight: 700;
+    color: var(--gray);
+    font-size: 70px;
+    line-height: 101px;
+}
+
+h2 {
+    font-weight: 600;
+    color: var(--gray);
+    font-size: 36px;
+    line-height: 61px;
+}
+
+h3 {
+    font-weight: 600;
+    color: var(--gray);
+    font-size: 24px;
+    line-height: 45px;
+}
+
+.p-light {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.p-dark {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.partitions {
+    color: var(--black);
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: var(--black);
+}
+
+.navbar-nav {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.nav-link active {
+    fz16
+}
+
+.nav-item {
+    margin-right: 35px;
+}
+
+.btn-primery {
+    color: var(--white);
+    background-color: var(--primery);
+    border-radius: 0;
+
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+}
+
+
