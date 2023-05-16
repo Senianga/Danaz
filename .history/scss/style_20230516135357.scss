@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 :root {
-    --bs-primary-bg-subtle: #2C3878 ;
+    --blue: #2C3878 ;
     --white: #ffffff;
     --gray: #333333;
     --grayscale: #a9a9a9;
@@ -375,7 +375,7 @@ h3 {
 
 .button {
     color: var(--white);
-    background-color: var(--bs-primary-bg-subtle);
+    background-color: var(--blue);
     padding: 10px 20px;
 }
 
@@ -437,7 +437,7 @@ h3, h4 {
 .see-more {
     text-decoration: none;
     padding: 10px 20px;
-    background-color: var(--bs-primary-bg-subtle);
+    background-color: var(--blue);
     color: var(--white);
     display: inline-block;
 }
@@ -456,7 +456,7 @@ h3, h4 {
 
 //---------footer--------
 .container-blue {
-    background-color: var(--bs-primary-bg-subtle);
+    background-color: var(--blue);
 }
 
 .footer-white {

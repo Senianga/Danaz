@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 :root {
-    --bs-primary-bg-subtle: #2C3878 ;
+    --blue: #2C3878 ;
     --white: #ffffff;
     --gray: #333333;
     --grayscale: #a9a9a9;
@@ -456,7 +456,7 @@ h3, h4 {
 
 //---------footer--------
 .container-blue {
-    background-color: var(--bs-primary-bg-subtle);
+    background-color: var(--blue);
 }
 
 .footer-white {
