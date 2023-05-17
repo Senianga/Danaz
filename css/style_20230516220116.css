@@ -248,10 +248,6 @@ h3 {
   color: var(--grayscale);
 }
 
-.acivment-statistic {
-  margin-right: 0;
-}
-
 .statistic-wraper {
   display: flex;
   flex-direction: column;
@@ -262,6 +258,9 @@ h3 {
   height: 525px;
   background-color: var(--blue);
   color: var(--white);
+}
+
+.statistic-wraper {
   margin: 0 auto;
 }
 
@@ -354,7 +353,7 @@ h3 {
 }
 
 .eight {
-  background-image: url(../img/shoo-8.png);
+  background-image: url(/img/shoo-8.png);
 }
 
 .desc-box {

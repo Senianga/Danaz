@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 :root {
-  --blue: #2C3878 ;
+  --bs-blue: #2C3878 ;
   --white: #ffffff;
   --gray: #333333;
   --grayscale: #a9a9a9;
@@ -248,10 +248,6 @@ h3 {
   color: var(--grayscale);
 }
 
-.acivment-statistic {
-  margin-right: 0;
-}
-
 .statistic-wraper {
   display: flex;
   flex-direction: column;
@@ -262,6 +258,9 @@ h3 {
   height: 525px;
   background-color: var(--blue);
   color: var(--white);
+}
+
+.statistic-wraper {
   margin: 0 auto;
 }
 
@@ -330,7 +329,6 @@ h3 {
 
 .two {
   background-image: url(../img/soo-2.png);
-  z-index: 5;
 }
 
 .three {

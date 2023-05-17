@@ -250,7 +250,7 @@ h3 {
 }
 
 .acivment-statistic {
-    margin-right: 0;
+    m
 }
 
 .statistic-wraper {
@@ -263,8 +263,11 @@ h3 {
     height: 525px;
     background-color: var(--blue);
     color: var(--white);
-    margin: 0 auto;
     }
+
+.statistic-wraper {
+    margin: 0 auto;
+}
 
 .statistic-numbers {
     font-size: 52px;

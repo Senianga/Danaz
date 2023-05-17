@@ -249,9 +249,7 @@ h3 {
     color: var(--grayscale);
 }
 
-.acivment-statistic {
-    margin-right: 0;
-}
+.acivment-statistic
 
 .statistic-wraper {
     display: flex;
@@ -263,8 +261,11 @@ h3 {
     height: 525px;
     background-color: var(--blue);
     color: var(--white);
-    margin: 0 auto;
     }
+
+.statistic-wraper {
+    margin: 0 auto;
+}
 
 .statistic-numbers {
     font-size: 52px;
