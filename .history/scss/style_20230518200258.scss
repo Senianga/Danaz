@@ -279,15 +279,6 @@ h3 {
     line-height: 26px;
 }
 
-.service-title-wrapper {
-    margin: 0 auto;
-}
-
-.card {
-    position: relative;
-    margin: 0 auto;
-}
-
 .card-img-top {
     width: 100px;
     height: 100px;
@@ -334,7 +325,7 @@ h3 {
     height: 400px;
     background-color: var(--blue);
     background-image: url(../img/shoo.png);
-    background-position-x: center;
+    background-position-x: bottom;
     background-position-y: bottom;
     background-repeat: no-repeat;
 }

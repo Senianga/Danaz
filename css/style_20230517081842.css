@@ -265,6 +265,10 @@ h3 {
   margin: 0 auto;
 }
 
+.statistic-wraper {
+  margin: 0 auto;
+}
+
 .statistic-numbers {
   font-size: 52px;
   text-align: center;
@@ -276,15 +280,6 @@ h3 {
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
-}
-
-.service-title-wrapper {
-  margin: 0 auto;
-}
-
-.card {
-  position: relative;
-  margin: 0 auto;
 }
 
 .card-img-top {
@@ -329,11 +324,10 @@ h3 {
 }
 
 .designer-background {
-  width: 100%;
+  width: 282px;
   height: 400px;
   background-color: var(--blue);
   background-image: url(../img/shoo.png);
-  background-position-x: center;
   background-position-y: bottom;
   background-repeat: no-repeat;
 }
